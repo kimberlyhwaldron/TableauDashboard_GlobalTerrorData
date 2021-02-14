@@ -1,1 +1,4 @@
-# TableauDashboard_GlobalTerrorData
+# TableauDashboard_GlobalTerrorData  
+  
+Link to data source:   
+Kaggle Global Terrorism Database https://www.kaggle.com/START-UMD/gtd
