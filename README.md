@@ -1,4 +1,4 @@
-## **[PDF: Global Terrorism Tableau Dashboards](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)**
+## **[PDF: Global Terrorism Tableau Dashboards](https://kimberlyhwaldron.github.io/TableauDashboard_GlobalTerrorData/)**
 
   
 Link to data source:   
